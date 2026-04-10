@@ -10,5 +10,5 @@ Classified sentiments into categories (positive, negative, neutral)
 
 The main goal of this project is to see how people react to the new policy based on their comments on YouTube.
 
-Notes
+Notes:
 This is a simple project and mainly for learning and exploration purposes.
