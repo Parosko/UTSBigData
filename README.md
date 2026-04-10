@@ -1,8 +1,8 @@
-About This Project
+About This Project:
 This project is a simple sentiment analysis study on public opinion about the new RUU KUHAP policy released in 2026.
 The data was collected by scraping comments from several YouTube videos discussing the topic.
 
-What I Did
+What I Did:
 Scraped comments from YouTube videos related to RUU KUHAP 2026
 Cleaned and preprocessed the text data
 Used IndoBERT model for sentiment analysis
